@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RPVz1vVKVhu0U790n4xf6T1r8bn16aRv+5c+atB8EG3k1qCqxlIEwkr1JiFqDAsadSlC1D9Rr/v31lkg0Wj+Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\merves\\Desktop\\Pratikler\\if-else\\if-else.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
